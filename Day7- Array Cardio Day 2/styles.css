@@ -1,0 +1,12 @@
+body{
+	background-color: lightgreen;
+}
+
+h1, p{
+	text-align: center;
+}
+
+h1{
+	font-family: arial;
+	font-size: 50px;
+}
